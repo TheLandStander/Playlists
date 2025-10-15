@@ -1,0 +1,1 @@
+{"videos":[{"location":0,"url":"https://archive.org/download/berserk-episode-16/Berserk%20Episode%2001.ia.mp4","durationMinutes":23.616241866666666},{"location":1,"url":"https://archive.org/download/berserk-episode-16/Berserk%20Episode%2001.ia.mp4","durationMinutes":23.616241866666666}],"totalDurationMinutes":47.23248373333333,"dateTimeCreated":"2025-10-15T00:10:29.126Z"}
